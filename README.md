@@ -4,7 +4,7 @@
 
 | File | Description |
 |---|---|
-| [`01_Requirements_Table.xlsx`](./01_Requirements_Table.xlsx) | 5 Functional Requirements (FR-001–FR-005) and 2 Non-Functional Requirements (NFR-001, NFR-002), each with Req ID, Type, Description, Priority, Acceptance Criteria, and Rationale. |
+| [`01_Requirements_Table.xlsx`](./Academic_Elective_Bidding_Requirements_Table.xlsx) | 5 Functional Requirements (FR-001–FR-005) and 2 Non-Functional Requirements (NFR-001, NFR-002), each with Req ID, Type, Description, Priority, Acceptance Criteria, and Rationale. |
 | [`uml_diagram_academicelective biddingandallocaionsystem.pdf`](./uml_diagram_academicelective%20biddingandallocaionsystem.pdf) | UML Use-Case Diagram showing all actors, primary use cases, and at least one `«include»` and one `«extend»` relationship. |
 | [`UseCase_Flow_UC01.docx`](./UseCase_Flow_UC01.docx) | One-page Use-Case Flow Specification for the core use case *Submit Elective Bids*, detailing Preconditions, Postconditions, Main Success Scenario, and Alternate Flow(s). |
 
