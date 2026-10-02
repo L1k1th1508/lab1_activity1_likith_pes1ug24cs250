@@ -1,4 +1,4 @@
-# lab1_activity1_likith_pes1ug24cs250
+# My project_Academic Elective Bidding & Allocation System
 # Academic elective bidding and allocation system
 ## Repository Contents
 
@@ -18,10 +18,7 @@
 - **UC-06** Run Allocation Solver *(extended by UC-07)*
 - **UC-07** Manually Resolve Allocation Conflict
 
-## Key Requirements
 
-- **FR-001:** Distribute 100 bidding credits across ranked preferences with prerequisite validation.
-- **NFR-001:** Allocation solver processes 5,000 student bids and resolves conflicts in under 30 seconds.
 
 ## Tools Used
 
